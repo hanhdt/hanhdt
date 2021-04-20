@@ -1,4 +1,4 @@
-### Hi there 👋
+### Howdy, folks! 👋
 
 <!--
 **hanhdt/hanhdt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🌱 I'm a software engineer and mainly working on API/Web development.
+
+💬 I'm currently interested on Node.js, Vue.js, Serverless and IoT stack. Especially, thinking to build useful products.
+
+📫 How to reach me: tranduchanh.ms@gmail.com

@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 🌱 I'm a software engineer and mainly working on API/Web development.
 
-💬 I'm currently interested on Node.js, Vue.js, Serverless and IoT stack. Especially, thinking to build useful products.
+💬 I'm currently interested on JavaScript/TypeScript/Node.js, Vue.js, Serverless and IoT stack. Also, persistently seek to to build useful products.
 
 📫 How to reach me: tranduchanh.ms@gmail.com

@@ -6,4 +6,4 @@
 
 📫 How to reach me: tranduchanh.ms@gmail.com
 
-[![hanhdt's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanhdt&theme=dracula)](https://github-readme-stats.vercel.app/api?username=hanhdt&theme=dracula)
+[![hanhdt's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanhdt&theme=dracula&show_icons=true&count_private=true)](https://github-readme-stats.vercel.app/api?username=hanhdt&theme=dracula&show_icons=true&count_private=true)

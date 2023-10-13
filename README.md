@@ -1,7 +1,7 @@
 ### Howdy, folks! 👋
 
-🌱 Thanks for coming to see me. I'm a software engineer and continuously working on distributed web technologies, mostly contribute to API/Web app development, cloud infrastructure engineering and solution architecture.
+🌱 Thank you for taking the time to visit. I'm a dedicated software engineer with a focus on distributed web technologies. My primary contributions lie in API and web app development, cloud infrastructure engineering, and solution architecture.
 
-💬 Currently interested in Vue.js, Flutter, JavaScript/TypeScript/Node.js, Serverless, Cloud services and IoT stack. Also, persistently seeking ideas to build useful products can help people around me better.
+💬 At present, I'm particularly intrigued by Vue.js, and the JS/TS/Node.js stack. Additionally, I'm deeply involved in Serverless, cloud services, and IoT technologies. I'm always on the lookout for innovative ideas to create products that can enhance the lives of those around me.
 
 📫 How to reach me: tranduchanh.ms@gmail.com
